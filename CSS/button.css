@@ -9,6 +9,11 @@
   display: flex; 
   justify-content: center;
   align-items: center;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #46957a;
 }
 
 .button p {
