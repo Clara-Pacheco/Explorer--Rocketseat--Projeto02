@@ -2,6 +2,11 @@
   width: 1280px;
   height: 720px;
   background-color: #ffffff;
+  background: linear-gradient(180deg, rgba(227, 255, 248, 0) 82.08%, rgba(227, 255, 248, 0.38) 100%);
+}
+
+body {
+  min-height: 100vh;
 }
 
 header {
