@@ -7,7 +7,7 @@ a {
   text-decoration: none;
 }
 
-.home {
+nav ul a:hover{
   font-weight: 700;
 }
 
