@@ -1,0 +1,45 @@
+.background-container {
+  width: 1280px;
+  height: 720px;
+  background-color: #ffffff;
+}
+
+header {
+  width: 1005px;
+  height: 28.08px;
+}
+
+.logo {
+  width: 112.32px;
+  height: 28.08px;
+}
+
+nav {
+  width: 267px;
+  height: 23px;
+}
+
+main {
+  width: 1008px;
+  height: 433.64px;
+}
+
+.left-container {
+  width: 489px;
+  height: 332px;
+}
+
+.button {
+  width: 179px;
+  height: 56px;
+}
+
+.image-container {
+  width: 417px;
+  height: 433.64px;
+}
+
+footer {
+  width: 592px;
+  height: 28px;
+}
