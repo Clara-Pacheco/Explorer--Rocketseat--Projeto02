@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="CSS/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500&family=Inter:wght@700&family=Mulish:wght@400;700&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="CSS/containers.css">
+  <link rel="stylesheet" href="CSS/text-style.css">
   <title>Projeto 02- Explorer</title>
 </head>
 <body>
@@ -18,9 +22,15 @@
 
       <nav>
         <ul>
-          <li>Home</li>
-          <li>Sobre</li>
-          <li>Treinar</li>
+          <a  class="home" href="#">
+            <li>Home</li>
+          </a>
+          <a href="#">
+            <li>Sobre</li>
+          </a>
+          <a href="#">
+            <li>Treinar</li>
+          </a>
         </ul>
       </nav>
 
@@ -28,10 +38,10 @@
     
       <main>
         <div class="left-container">
-              <h1>Treinos exclusivos para você!</h1>
+              <h1>Treinos <span class="exclusivos">exclusivos</span> para você!</h1>
             
-              <p>Nós criamos treinos exclusivos e únicos para você. </p>
-              <p>Invista no seu corpo e tenha muito mais performance e qualidade de vida.</p>
+              <p>Nós criamos treinos <span class="unicos">exclusivos e únicos para você.</span> </p>
+              <p>Invista no seu corpo e <span class="performance">tenha muito mais performance</span> e qualidade de vida.</p>
             
             <div class="button">
             <img src="assets/whatsapp 1.png" alt="Símbolo do whatsapp">
@@ -50,7 +60,7 @@
    
 
     <footer>
-      <p>fale concosco no instagram @treine.me</p>
+      <p>fale concosco no instagram <span class="treine">@treine.me</span></p>
     </footer>
 
     <img src="assets/balls-decoration.png" alt="Imagens de pequenas bolinhas verdes no canto inferior direito da tela">
