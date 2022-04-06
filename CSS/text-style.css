@@ -5,10 +5,12 @@ a {
   line-height: 22.59px;
   color: #1F1534;
   text-decoration: none;
+  opacity: 0.5;
 }
 
 nav ul a:hover{
   font-weight: 700;
+  opacity: 1;
 }
 
 h1 {
