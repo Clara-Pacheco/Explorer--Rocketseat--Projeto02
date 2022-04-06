@@ -10,11 +10,12 @@ header {
   bottom: 630.88px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
-li {
-  display: inline-flex;
-  margin-right: 30px;
+ul {
+  display: flex;
+  gap: 48px;
 }
 
 main {
