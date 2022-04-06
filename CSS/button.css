@@ -1,0 +1,21 @@
+.button {
+  width: 179px;
+  height: 56px;
+  box-sizing: border-box;
+  padding: 14px 32px 15px 32px;
+  gap: 10px;
+  border-radius: 4px;
+  background-color: #69B99D;   
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+}
+
+.button p {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20.83px;
+  text-align: center;
+  color: #F9F9F9;
+}
