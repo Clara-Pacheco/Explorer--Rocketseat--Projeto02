@@ -1,0 +1,19 @@
+.logo {
+  display: flex;
+  
+}
+
+.logo p {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 26px;
+  color: #89C5CC;
+  text-align: center;
+ 
+}
+
+.logo-image {
+  width: 24.66px;
+  height: 28.08px;
+}
