@@ -1,0 +1,53 @@
+.background-container{
+  position: relative;
+}
+
+header {
+  position: absolute;
+  top: 61.04px;
+  left: 122px;
+  right: 153px;
+  bottom: 630.88px;
+  display: flex;
+  justify-content: space-between;
+}
+
+li {
+  display: inline-flex;
+  margin-right: 30px;
+}
+
+main {
+  margin: auto;
+  position: absolute;
+  top: 146px;
+  right: 153px;
+  bottom: 140.36px;
+  left: 119px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-container {
+  margin-right: 102px;
+}
+
+.left-container h1, .paragraph2 {
+  margin-bottom: 40px;
+}
+
+footer {
+  position: absolute;
+  top: 662px;
+  right: 344px;
+  left: 344px;
+  bottom:30px;
+
+}
+
+.balls-decoration {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
