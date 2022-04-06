@@ -1,0 +1,70 @@
+.logo {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 26px;
+  color: #89C5CC;
+}
+
+a {
+  font-family: 'Mulish', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22.59px;
+  color: #1F1534;
+  text-decoration: none;
+}
+
+.home {
+  font-weight: 700;
+}
+
+h1 {
+  font-family: 'Mulish', sans-serif;
+  font-size: 49px;
+  font-weight: 400;
+  line-height: 56px;
+  color: #000000;
+
+}
+
+h1 .exclusivos {
+  font-weight: 700;
+  color: #89C5CC;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #7D7987;
+}
+
+p .unicos,
+p .performance {
+  font-weight: 700;
+}
+
+input {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20.83px;
+  text-align: center;
+  color: #F9F9F9;
+  
+}
+
+footer p {
+  font-family: 'Open Sans', sans-serif;
+  font: 400;
+  font-size: 14px;
+  line-height: 28px;
+  text-align: center;
+  color: #000000;
+}
+
+footer p .treine {
+  font-weight: 700;
+}
